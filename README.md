@@ -1,6 +1,6 @@
 #
 
-![Hero Image](top.png)
+![Hero Image](top.jpg)
 
 ## :book: [Books](topics/books/index.md)
 
