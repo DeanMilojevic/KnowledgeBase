@@ -123,3 +123,5 @@
 :closed_book: **Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages**, *Bruce Tate*
 
 :book: **Docker in Action**, *Jeff Nickoloff, Stephen Kuenzli*
+
+:book: **Scrum: The Art of Doing Twice the Work in Half the Time**, *Jeff Sutherland, J.J. Sutherland*
