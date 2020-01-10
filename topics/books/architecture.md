@@ -31,4 +31,3 @@
 :closed_book: **Designing Software Architectures: A Practical Approach (SEI Series in Software Engineering)**, *Humberto Cervantes and Rick Kazman*
 
 :book: **Domain-Driven Design: Tackling Complexity in the Heart of Software**, *Eric Evans*
-
