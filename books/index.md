@@ -1,6 +1,6 @@
 # Books
 
-:book: **Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design andIterative Development**, *Craig Larman*
+:book: **Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development**, *Craig Larman*
 
 :book: **Design Patterns: Elements of Reusable Object-Oriented Software**, *Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides*
 
@@ -24,12 +24,49 @@
 
 :book: **Growing Object-Oriented Software, Guided by Tests**, *Steve Freeman, Nat Pryce*
 
-:book: **Title**, *Authors*
-:book: **Title**, *Authors*
-:book: **Title**, *Authors*
-:book: **Title**, *Authors*
-:book: **Title**, *Authors*
-:book: **Title**, *Authors*
-:book: **Title**, *Authors*
+:closed_book: **The Algorithm Design Manual**, *Steven S Skiena*
+
+:book: **Cracking the Coding Interview: 189 Programming Questions and Solutions**, *Gayle Laakmann McDowell*
+
+:book: **Soft Skills: The software developer's life manual**, *John Sonmez*
+
+:book: **The Software Craftsman: Professionalism, Pragmatism, Pride**, *Sandro Mancuso*
+
+:book: **Design It!: From Programmer to Software Architect**, *Michael Keeling*
+
+:book: **Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability**, *Steve Krug*
+
+:closed_book: **The Manager's Guide to Continuous Delivery: Delivery Software in Days, Instead of Months**, *Andrew Phillips, Michiel Sens, et al.*
+
+:closed_book: **Making Embedded Systems: Design Patterns for Great Software**, *Elecia White*
+
+:book: **Hacking Electronics: An Illustrated DIY Guide for Makers and Hobbyists**, *Simon Monk Dr*
+
+:book: **Designing Interfaces: Patterns for Effective Interaction Design**, *Jenifer Tidwell*
+
+:book: **How to Build a Billion Dollar App**, *George Berkowski*
+
+:closed_book: **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems**, *Martin Kleppmann*
+
+:closed_book: **SQL Performance Explained Everything Developers Need to Know about SQL Performance**, *Markus Winand*
+
+:book: **Kubernetes: Up and Running: Dive into the Future of Infrastructure**, *Kelsey Hightower , Brendan Burns, et al.*
+
+:book: **Terraform: Up and Running: Writing Infrastructure as Code**, *Yevgeniy Brikman*
+
+:closed_book: **Learning Chef: A Guide to Configuration Management and Automation**, *Mischa Taylor, Seth Vargo*
+
+:closed_book: **Ansible: Up and Running: Automating Configuration Management and Deployment the Easy Way**, *Lorin Hochstein and Rene Moser*
+
+:closed_book: **Infrastructure as Code**, *Kief Morris*
+
+:book: **Building Evolutionary Architectures: Support Constant Change**, *Neal Ford , Rebecca Parsons , et al.*
+
+:closed_book: **Software Architecture in Practice (SEI Series in Software Engineering)**, *Len Bass , Paul Clements, et al.*
+
+:closed_book: **Designing Software Architectures: A Practical Approach (SEI Series in Software Engineering)**, *Humberto Cervantes and Rick Kazman*
+
+:book: **Domain-Driven Design: Tackling Complexity in the Heart of Software**, *Eric Evans*
+
 :book: **Title**, *Authors*
 :closed_book: **Title**, *Authors*
