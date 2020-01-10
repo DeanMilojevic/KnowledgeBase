@@ -1,4 +1,4 @@
-# Books
+#
 
 :book: **Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development**, *Craig Larman*
 
@@ -14,9 +14,17 @@
 
 :book: **Patterns of Enterprise Application Architecture**, *Martin Fowler*
 
+:book: **Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F#**, *Scott Wlaschin*
+
+:closed_book: **Art of Scalability, The: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise**, *Martin L. Abbott*
+
+:book: **Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation**, *Jez Humble, David Farley*
+
 :book: **Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions**, *Gregor Hohpe, Bobby Woolf*
 
 :book: **Building Microservices: Designing Fine-Grained Systems**, *Sam Newman*
+
+:book: **Working Effectively with Legacy Code**, *Michael Feathers*
 
 :book: **Production-Ready Microservices**, *Susan Fowler*
 
@@ -31,6 +39,8 @@
 :book: **Soft Skills: The software developer's life manual**, *John Sonmez*
 
 :book: **The Software Craftsman: Professionalism, Pragmatism, Pride**, *Sandro Mancuso*
+
+:book: **The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition**, *Frederick P. Brooks*
 
 :book: **Design It!: From Programmer to Software Architect**, *Michael Keeling*
 
@@ -68,5 +78,48 @@
 
 :book: **Domain-Driven Design: Tackling Complexity in the Heart of Software**, *Eric Evans*
 
-:book: **Title**, *Authors*
-:closed_book: **Title**, *Authors*
+:book: **Metaprogramming Elixir: Write Less Code, Get More Done (and Have Fun!)**, *Chris McCord*
+
+:book: **Programming Elixir ≥ 1.3: Functional |> Concurrent |> Pragmatic |> Fun**, *Dave Thomas*
+
+:book: **Programming Phoenix ≥ 1.4: Productive |> Reliable |> Fast**, *Chris McCord, Bruce Tate, et al.*
+
+:book: **Secrets of the JavaScript Ninja**, *John Resig, Bear Bibeault , et al.*
+
+:book: **Learning JavaScript Design Patterns: A JavaScript and jQuery Developer's Guide**, *Addy Osmani*
+
+:book: **Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers**, *Nicholas C. Zakas*
+
+:book: **Writing High-Performance .NET Code**, *Ben Watson , Leticia Watson, et al.*
+
+:book: **Concurrency in C# Cookbook**, *Stephen Cleary*
+
+:book: **Dependency Injection in .NET**, *Mark Seemann*
+
+:book: **Adaptive Code via C#: Agile coding with design patterns and SOLID principles (Developer Reference)**, *Gary Mclean*
+
+:book: **Agile Principles, Patterns, and Practices in C#**, *Robert C. Martin, Micah Martin*
+
+:book: **CLR via C# (Developer Reference)**, *Jeffrey Richter*
+
+:book: **Pro ASP.NET MVC 5**, *Adam Freeman*
+
+:book: **Microservices in .NET Core: with examples in Nancy**, *Christian Horsdal Gammelgaard*
+
+:book: **Rx.NET in Action: With examples in C#**, *Tamir Dresher*
+
+:closed_book: **The Book of F#: Breaking Free with Managed Functional Programming**, *Dave Fancher*
+
+:book: **Spring Microservices in Action**, *John Carnell*
+
+:book: **Spring Boot in Action**, *Craig Walls*
+
+:closed_book: **Java 9 Modularity: Patterns and Practices for Developing Maintainable Applications**, *Sander Mak, Paul Bakker*
+
+:book: **Effective Java**, *Joshua Bloch*
+
+:closed_book: **HTML and CSS: Design and Build Websites**, *Jon Duckett*
+
+:closed_book: **Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages**, *Bruce Tate*
+
+:book: **Docker in Action**, *Jeff Nickoloff, Stephen Kuenzli*
