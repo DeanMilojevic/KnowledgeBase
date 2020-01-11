@@ -1,13 +1,21 @@
 <h1 align="center">Knowledge Base</h1>
 
-<img src="top.jpg" align="center alt="Hero image"></img>
+![Hero Image](top.jpg)
 
-## :book: [Books](topics/books/index.md)
+## Introduction
 
-## :computer: [Software](topics/software/index.md)
+The idea behind this repository is to have one place where I would put the my own curated sources of knowledge. Usually is really hard keeping track of all the things on all the devices we own, so it came to me as a good idea to use the GitHub for this. 
 
-## :nut_and_bolt: [Tools](topics/tools/index.md)
+This is the topics I currently host on here and it is work in progress:
 
-## :link: [Websites](topics/websites/index.md)
+### :book: [Books](topics/books/index.md)
 
-## :newspaper: [Whitepapers](topics/whitepapers/index.md)
+### :computer: [Software](topics/software/index.md)
+
+### :nut_and_bolt: [Tools](topics/tools/index.md)
+
+### :link: [Websites](topics/websites/index.md)
+
+### :newspaper: [Whitepapers](topics/whitepapers/index.md)
+
+### :tv: [Videos]()
