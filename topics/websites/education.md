@@ -1,7 +1,11 @@
 # Education
 
-## [Pluralsight](https://www.pluralsight.com/)![Image of Pluralsight](images/education/pluralsight.png)
+## [Pluralsight](https://www.pluralsight.com/)
 
-## [Udacity](https://www.udacity.com/)![Image of Udacity](images/education/udacity.png)
+## [Udacity](https://www.udacity.com/)
 
-## [Blinkist](https://www.blinkist.com/)![Image of Blinkist](images/education/blinkist.png)
+## [Blinkist](https://www.blinkist.com/)
+
+## [Coursera](https://www.coursera.org)
+
+## [Brilliant](https://brilliant.org)
