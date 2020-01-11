@@ -6,7 +6,7 @@
 
 The idea behind this repository is to have one place where I would put the my own curated sources of knowledge. Usually is really hard keeping track of all the things on all the devices we own, so it came to me as a good idea to use the GitHub for this. 
 
-This is the topics I currently host on here and it is work in progress:
+This are some of the high level topics and it is work in progress:
 
 ### :book: [Books](topics/books/index.md)
 
