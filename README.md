@@ -1,6 +1,6 @@
-#
+<h1 align="center">Knowledge Base</h1>
 
-![Hero Image](top.jpg)
+<img src="top.jpg" align="center alt="Hero image"></img>
 
 ## :book: [Books](topics/books/index.md)
 
