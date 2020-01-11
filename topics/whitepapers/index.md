@@ -2,7 +2,7 @@
 
 ### [**Data on the Outside versus Data on the Inside** *Pat Helland*](http://cidrdb.org/cidr2005/papers/P12.pdf)
 
-### [**Consistent Hashing and Random Trees: Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web** *David Karger,Eric Lehman,Tom Leighton,Matthew Levine,Daniel Lewin,Rina Panigrahy*](https://www.akamai.com/us/en/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf)
+### [**Consistent Hashing and Random Trees: Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web** *David Karger, Eric Lehman, Tom Leighton, Matthew Levine, Daniel Lewin, Rina Panigrahy*](https://www.akamai.com/us/en/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf)
 
 ### [**Dynamo: Amazon’s Highly Available Key-value Store** *Giuseppe DeCandia, Deniz Hastorun, Madan Jampani, Gunavardhan Kakulapati,  Avinash Lakshman, Alex Pilchin, Swaminathan Sivasubramanian, Peter Vosshall  and Werner Vogels*](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 
